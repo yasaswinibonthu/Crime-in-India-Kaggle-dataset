@@ -17,6 +17,6 @@ This Crime In india is a collection of various datasets regarding the types of c
 
 For my model I have used Serious_fraud dataset.
 
-My model predicts the Loss_of_property above 100 crores that happened in a particular area in the year 2001.
+My model predicts the number of cases of Loss_of_property above 100 crores that happened in a particular area in the year 2001.
 
 
